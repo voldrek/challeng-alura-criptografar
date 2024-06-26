@@ -42,5 +42,5 @@ Este projeto é licenciado sob a Licença [MIT](https://opensource.org/licenses/
 
 ---
 
-Desenvolvido por [Seu Nome](https://github.com/seu-usuario).
+Desenvolvido por Lucas Jordano(https://github.com/voldrek).
 
